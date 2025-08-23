@@ -1,0 +1,29 @@
+# Node.js dependencies and build output
+/node_modules
+/dist
+/out-tsc
+/npm-debug.log*
+
+# Angular build artifacts
+/build
+.angular
+
+# IDE and editor config files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Maven and Java build folders
+/target/
+/pom.xml.tag
+/pom.xml.releaseBackup
+/pom.xml.versionsBackup
+/logs/
+
+# Misc
+.DS_Store
+*.log
