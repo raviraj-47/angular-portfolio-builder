@@ -24,6 +24,9 @@
 /pom.xml.versionsBackup
 /logs/
 
+# Spring Boot config (sensitive data)
+/src/main/resources/application.properties
+
 # Misc
 .DS_Store
 *.log
